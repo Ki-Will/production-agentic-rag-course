@@ -143,8 +143,6 @@ CLAUDE.md
 .idea/
 
 # VS Code (keep settings.json for Python config)
-.vscode/*
-!.vscode/settings.json
 
 # MacOS
 .DS_Store
@@ -180,3 +178,7 @@ test_data/
 
 
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
